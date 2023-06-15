@@ -1,8 +1,10 @@
 # Brain Tumor Segmentation Database
 
-The Surgical Planning Laboratory [SPL] and the Department of Neurosurgery [NSG] Brain Tumor Database was created as a joint effort between the Department of Neurosurgery and the Surgical Planning Laboratory, Department of Radiology of the Harvard Medical School at the Brigham and Women’s Hospital, Boston, MA.
+The Surgical Planning Laboratory (SPL) and the Department of Neurosurgery (NSG) Brain Tumor Database was created as a joint effort between the Department of Neurosurgery and the Surgical Planning Laboratory, Department of Radiology of the Harvard Medical School at the Brigham and Women’s Hospital, Boston, MA.
 
 We are making this database available as a resource to aid in the development of image analysis algorithms for the quantitative assessment and the visualization of brain tumors. The database consists of magnetic resonance images of several anonymous brain tumor patients, as well as segmentations of the brain and tumor from these scans. Manual segmentations obtained by neurosurgeons and automated segmentations obtained by the method of [1] and [2].
+
+See the file `Description.pdf` for more information.
 
 Terms of Use agreement explains that this database is made available for scientific research purposes only.
 
@@ -22,3 +24,5 @@ Radiology. 2001 Feb;218(2):586-91.
 https://pubmed.ncbi.nlm.nih.gov/11161183/
 
 2. Simon K. Warfield, Michael Kaus, Ferenc A. Jolesz, and Ron Kikinis. Adaptive, Template Moderated, Spatially Varying Statistical Classification. Med Image Anal. 2000 Mar;4(1):43-55. https://pubmed.ncbi.nlm.nih.gov/10972320/
+
+
